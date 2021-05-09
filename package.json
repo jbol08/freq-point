@@ -1,0 +1,22 @@
+{
+  "name": "files",
+  "version": "1.0.0",
+  "description": "",
+  "main": "step1.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jbol08/freq-point/"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jbol08/freq-point/"
+  },
+  "homepage": "https://github.com/jbol08/freq-point/",
+  "dependencies": {
+    "axios": "^0.21.1"
+  }
+}
